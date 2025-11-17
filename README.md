@@ -1,8 +1,8 @@
-# CitiZen AI - Smart City Complaint Management Platform
+# citizen complaint ai - Smart City Complaint Management Platform
 
 ## Project Overview
 
-CitiZen AI is an intelligent civic complaint management system that bridges the gap between citizens and municipal authorities through artificial intelligence. The platform automatically predicts complaint urgency, optimizes resource allocation, and provides real-time tracking of issue resolution.
+citizen complaint ai is an intelligent civic complaint management system that bridges the gap between citizens and municipal authorities through artificial intelligence. The platform automatically predicts complaint urgency, optimizes resource allocation, and provides real-time tracking of issue resolution.
 
 ## Key Features
 
@@ -299,10 +299,6 @@ EXPOSE 8501
 CMD ["streamlit", "run", "main.py", "--server.port=8501", "--server.address=0.0.0.0"]
 ```
 
-## License and Legal
-
-This project is released under the MIT License, making it free for municipal and educational use. All user data is stored locally by default with proper encryption for sensitive information.
-
 ## Support and Contact
 
 ### Technical Support
@@ -321,6 +317,6 @@ This project is released under the MIT License, making it free for municipal and
 
 ---
 
-**CitiZen AI - Empowering Smart Cities Through AI-Driven Civic Engagement**
+**citizen complaint ai - Empowering Smart Cities Through AI-Driven Civic Engagement**
 
 _Making cities more responsive, efficient, and citizen-centric through intelligent complaint management._
